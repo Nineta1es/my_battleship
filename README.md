@@ -10,3 +10,6 @@ un joueur est représenté par un objet player (fichier player.js), et contient 
 l'objet utils (fichier utils.js), est un objet contenant des méthodes utilitaires et transverses.
 
 l'objet shipFactory (fichier shipFactory.js) est un objet qui simplifie la création des bateaux.
+
+
+<img src="./img/battleship.png" alt="image battleship">
