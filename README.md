@@ -12,4 +12,4 @@ l'objet utils (fichier utils.js), est un objet contenant des méthodes utilitair
 l'objet shipFactory (fichier shipFactory.js) est un objet qui simplifie la création des bateaux.
 
 
-<img src="./img/battleship.png" alt="image battleship">
+![battleship](https://github.com/Nineta1es/my_battleship/assets/118688556/1633d29a-8b57-4c10-b08f-d2ec4952f385)
